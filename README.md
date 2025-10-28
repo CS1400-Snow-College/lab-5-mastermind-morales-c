@@ -51,7 +51,7 @@ Your job is to guess the letters and put them in the right order.
         - 0 in the wrong positions
 
       Guess #6: Please guess a sequence of 4 lowercase letters with no repeats.
-        abfc
+        abf
 
       You did it! You guessed my secret (abfc) in 6 guesses.
         

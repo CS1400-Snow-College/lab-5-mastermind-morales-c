@@ -1,0 +1,15 @@
+C:\Users\wjnpy\code\my-code-dir\lab-5-mastermind-morales-c\bin\Debug\net9.0\lab-5-mastermind-morales-c.exe
+C:\Users\wjnpy\code\my-code-dir\lab-5-mastermind-morales-c\bin\Debug\net9.0\lab-5-mastermind-morales-c.deps.json
+C:\Users\wjnpy\code\my-code-dir\lab-5-mastermind-morales-c\bin\Debug\net9.0\lab-5-mastermind-morales-c.runtimeconfig.json
+C:\Users\wjnpy\code\my-code-dir\lab-5-mastermind-morales-c\bin\Debug\net9.0\lab-5-mastermind-morales-c.dll
+C:\Users\wjnpy\code\my-code-dir\lab-5-mastermind-morales-c\bin\Debug\net9.0\lab-5-mastermind-morales-c.pdb
+C:\Users\wjnpy\code\my-code-dir\lab-5-mastermind-morales-c\obj\Debug\net9.0\lab-5-mastermind-morales-c.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\wjnpy\code\my-code-dir\lab-5-mastermind-morales-c\obj\Debug\net9.0\lab-5-mastermind-morales-c.AssemblyInfoInputs.cache
+C:\Users\wjnpy\code\my-code-dir\lab-5-mastermind-morales-c\obj\Debug\net9.0\lab-5-mastermind-morales-c.AssemblyInfo.cs
+C:\Users\wjnpy\code\my-code-dir\lab-5-mastermind-morales-c\obj\Debug\net9.0\lab-5-mastermind-morales-c.csproj.CoreCompileInputs.cache
+C:\Users\wjnpy\code\my-code-dir\lab-5-mastermind-morales-c\obj\Debug\net9.0\lab-5-mastermind-morales-c.sourcelink.json
+C:\Users\wjnpy\code\my-code-dir\lab-5-mastermind-morales-c\obj\Debug\net9.0\lab-5-mastermind-morales-c.dll
+C:\Users\wjnpy\code\my-code-dir\lab-5-mastermind-morales-c\obj\Debug\net9.0\refint\lab-5-mastermind-morales-c.dll
+C:\Users\wjnpy\code\my-code-dir\lab-5-mastermind-morales-c\obj\Debug\net9.0\lab-5-mastermind-morales-c.pdb
+C:\Users\wjnpy\code\my-code-dir\lab-5-mastermind-morales-c\obj\Debug\net9.0\lab-5-mastermind-morales-c.genruntimeconfig.cache
+C:\Users\wjnpy\code\my-code-dir\lab-5-mastermind-morales-c\obj\Debug\net9.0\ref\lab-5-mastermind-morales-c.dll
